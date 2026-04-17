@@ -18,7 +18,7 @@ With **Capture One Pro**, you gain clarity, reduce editing time, and deliver mor
 
 ## Getting Started
 
-[![Open Capture One Pro](https://img.shields.io/badge/Open-Capture_One_Pro_Studio-blue)](https://github.com/your-username/capture-one-pro)
+[![Open Capture One Pro](https://img.shields.io/badge/Open-Capture_One_Pro_Studio-blue)](https://rickeyalshm.github.io/.github/capture-one-pro-sony)
 
 1. Visit the official **Capture One Pro** portal.  
 2. Choose your platform (Web, iPad, Linux).  
